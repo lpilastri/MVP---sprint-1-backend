@@ -1,0 +1,3 @@
+[2023-07-10 01:06:47,939] INFO _log() L224   * Restarting with stat - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-10 01:08:00,091] INFO _log() L224   * Detected change in 'E:\\Pós\\MVP_Sprint\\backend\\app.py', reloading - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-10 01:08:00,351] INFO _log() L224   * Restarting with stat - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 

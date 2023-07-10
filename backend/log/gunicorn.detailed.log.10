@@ -1,0 +1,58 @@
+[2023-07-09 19:41:53,202] INFO _log() L224   * Restarting with stat - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:42:38,833] INFO _log() L224   * Detected change in 'E:\\Pós\\MVP_Sprint\\backend\\schemas\\peso.py', reloading - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:42:38,989] INFO _log() L224   * Restarting with stat - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:42:57,685] INFO _log() L224   * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.10.48:5000 (Press CTRL+C to quit) - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:42:57,690] INFO _log() L224   * Restarting with stat - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:43:14,599] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:43:14] "POST /boi HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:43:22,845] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:43:22] "POST /peso HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:52:19,773] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:52:19] "GET /bois HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:52:19,774] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:52:19] "GET /pesos HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:53:59,808] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:53:59] "GET /pesos HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:53:59,995] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:53:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:56:37,314] INFO _log() L224   * Detected change in 'E:\\Pós\\MVP_Sprint\\backend\\schemas\\peso.py', reloading - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:56:37,442] INFO _log() L224   * Restarting with stat - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:56:39,379] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:56:39] "GET /pesos HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:56:43,149] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:56:43] "GET /pesos HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:56:43,151] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:56:43] "GET /bois HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:56:54,348] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:56:54] "GET /pesos HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:56:54,350] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:56:54] "GET /bois HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:58:11,592] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:58:11] "POST /peso HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:58:16,013] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:58:16] "GET /pesos HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 19:58:16,014] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 19:58:16] "GET /bois HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:02:04,742] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:02:04] "GET /bois HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:02:04,743] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:02:04] "GET /pesos HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:02:20,039] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:02:20] "POST /peso HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:02:24,386] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:02:24] "GET /bois HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:02:24,388] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:02:24] "GET /pesos HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:02:37,788] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:02:37] "POST /peso HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:02:49,478] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:02:49] "OPTIONS /peso?id= HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:02:49,489] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:02:49] "[31m[1mDELETE /peso?id= HTTP/1.1[0m" 422 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:02:54,650] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:02:54] "GET /bois HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:02:54,652] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:02:54] "GET /pesos HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:08,201] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:08] "GET /bois HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:08,203] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:08] "GET /pesos HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:19,595] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:19] "POST /peso HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:19,618] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:19] "GET /pesos HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:23,915] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:23] "GET /pesos HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:23,916] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:23] "GET /bois HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:31,046] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:31] "OPTIONS /peso?id=1 HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:31,286] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:31] "DELETE /peso?id=1 HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:32,880] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:32] "OPTIONS /peso?id=2 HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:33,072] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:33] "DELETE /peso?id=2 HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:33,743] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:33] "OPTIONS /peso?id=3 HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:33,893] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:33] "DELETE /peso?id=3 HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:34,518] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:34] "OPTIONS /peso?id=4 HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:34,714] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:34] "DELETE /peso?id=4 HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:35,302] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:35] "OPTIONS /peso?id=5 HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:35,445] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:35] "DELETE /peso?id=5 HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:37,846] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:37] "OPTIONS /boi?brinco=1 HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:07:38,144] INFO _log() L224  127.0.0.1 - - [09/Jul/2023 20:07:38] "DELETE /boi?brinco=1 HTTP/1.1" 200 - - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:10:46,605] INFO _log() L224   * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.10.48:5000 (Press CTRL+C to quit) - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:10:46,609] INFO _log() L224   * Restarting with stat - call_trace=E:\Pós\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-09 20:10:51,313] WARNING add_peso() L155  Erro ao adicionar um peso ao boi '1', Noi não encontrado na base :/ - call_trace=E:\Pós\MVP_Sprint\backend\app.py L155 
